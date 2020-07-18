@@ -5,7 +5,7 @@ To setup the application:
 
 *)Type the following command.: pip install -r requirements.txt
 
-*)Go to pyspf-2.0.14 then press Shift+Right-click open powershell
+*)Go to pyspf-2.0.14 then open Terminal or Command Prompt
 Run the following commands
 	1.  python setup.py build
 	2.  python setup.py install
