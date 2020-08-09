@@ -1,4 +1,4 @@
-# R17U
+# GUI Mail Record Finder
 ## To setup the application:
 
 *)Python3.6.8 needs to be installed in your system.
