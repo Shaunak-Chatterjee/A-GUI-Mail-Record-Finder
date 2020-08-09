@@ -23,3 +23,7 @@ Run the following commands
 2. Browse the .CSV file and open.
 3. Wait for the task to be complete's.
 4. For next file simply click on File -> Open, and the task will be started.
+
+## What's checked
+For a given domain, MX records, SPF records (TXT), DMARC (TXT, at _dmarc.),.
+The following values are returned in date-time/domain.json:
